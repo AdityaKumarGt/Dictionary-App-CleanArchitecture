@@ -25,3 +25,6 @@ The Dictionary App is a mobile application for Android that allows users to sear
 - Kotlin Coroutines & Flows
 - Retrofit for Rest API integration
 
+## Acknowledgments
+-  Special thanks to [Free Dictionary API](https://dictionaryapi.dev/) for providing this free API.
+
