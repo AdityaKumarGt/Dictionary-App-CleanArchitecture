@@ -24,6 +24,7 @@ The Dictionary App is a mobile application for Android that allows users to sear
 - Dagger Hilt for Dependency Injection
 - Kotlin Coroutines & Flows
 - Retrofit for Rest API integration
+- Room Database for Local Caching
 - Lottie animation
 
 ## Acknowledgments
