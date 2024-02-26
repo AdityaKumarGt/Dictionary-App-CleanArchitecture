@@ -3,7 +3,7 @@
 # Dictionary App 
 
 ## Overview 
-The Dictionary App is a mobile application for Android that allows users to search for words and get instant definitions. One of the key features of this app is the ability to save searched words in a local cache, enabling users to access their search history even when offline.
+The Dictionary App is a mobile application for Android that allows users to search for words and get instant definitions. One of the key features of this app is the ability to save searched words in a local cache, enabling users to access their already searched words even when offline.
 
 ## Features
 - **Word Search:** Users can search for definitions of any word.
