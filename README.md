@@ -15,6 +15,9 @@ The Dictionary App is a mobile application for Android that allows users to sear
 <img src="https://github.com/AdityaKumarGt/Dictionary-App-CleanArchitecture/assets/121026525/c1f864bd-72f6-4bd8-80c6-de7c261c51bb" alt="HomeScreen" width="200">
 <img src="https://github.com/AdityaKumarGt/Dictionary-App-CleanArchitecture/assets/121026525/f102529d-295b-49c9-8cca-ae60596d7799" alt="HomeScreen" width="200">
 
+## Video Demo
+https://github.com/AdityaKumarGt/Dictionary-App-CleanArchitecture/assets/121026525/b6f4f6a9-acac-493a-ad3c-95ea0f8ba2d0
+
 
 ## Technologies and Architecture Used:
 
